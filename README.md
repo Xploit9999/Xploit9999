@@ -1,4 +1,4 @@
-# 🙂 ¡Hola! Soy Xploit9999
+# 🙂 ¡Hola! Soy John (Xploit9999)
 
 **Especialista en Automatización de Infraestructura como Código**  
 Sysadmin certificado RHCSA | Linux · UNIX · Windows

@@ -5,7 +5,7 @@ Sysadmin certificado RHCSA | Linux · UNIX · Windows
 
 ---
 
-## 🚀 Sobre mí
+## 🧑‍💻 Sobre mí
 
 - 🖥️ Administro sistemas operativos Linux, UNIX y Windows.
 - 🤖 Apasionado por la automatización de infraestructura usando herramientas como **Ansible, Terraform y Vagrant**.
@@ -26,7 +26,7 @@ Sysadmin certificado RHCSA | Linux · UNIX · Windows
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
 - [Simular-ambiente-estresado](https://github.com/Xploit9999/Simular-ambiente-estresado)
 - [Ansible_modulos](https://github.com/Xploit9999/Ansible_modulos)

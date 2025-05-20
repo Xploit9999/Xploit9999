@@ -6,8 +6,10 @@ Sysadmin certificado RHCSA | Linux · UNIX · Windows
 ![Visitas al perfil](https://visitor-badge.laobi.icu/badge?page_id=Xploit9999)
 ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-red?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?logo=vagrant&logoColor=white&style=for-the-badge)
 
 ---
 
